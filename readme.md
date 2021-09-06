@@ -16,4 +16,5 @@ To deploy this project first we need to install all python libraries which we ar
   python ./main.py
 ```
 
-  
+After Running the script you will asked to enter Stock Symbol which you can find it from https://finance.yahoo.com/
+  ![alt text](screenshots/symbol code.png)
