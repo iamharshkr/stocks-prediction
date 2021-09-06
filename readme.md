@@ -24,7 +24,7 @@ After that enter the symbol code of stock.
 
 ![alt text](Screenshots/Screenshot-2.png)
 
-Here our model will be trained train.
+Here our model is training.
 ![alt text](Screenshots/Screenshot-3.png)
 
 After that you can check the actual and predicted price graph.
