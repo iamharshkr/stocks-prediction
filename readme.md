@@ -7,7 +7,7 @@ And based on that we will train our model and trying to predict the stock closin
 
 ## Deployment
 
-To deploy this project first we need to install all python libraries which we are using for that run
+To run this project first we need to install all the python libraries which are required.
 
 ```bash
   pip install -r requirements.txt
