@@ -18,8 +18,21 @@ To deploy this project first we need to install all python libraries which we ar
 
 After Running the script you will asked to enter Stock Symbol which you can find it from https://finance.yahoo.com/
 
-![alt text](Screenshots/symbol.png)
+![Script Symbol Code](Screenshots/symbol.png)
 
 After that enter the symbol code of stock.
 
-![alt text](Screenshots/Screenshot (2).png)
+![alt text](Screenshots/Screenshot-2.png)
+
+Here our model will be trained train.
+![alt text](Screenshots/Screenshot-3.png)
+
+After that you can check the actual and predicted price graph.
+![price graph](Screenshots/Screenshot-4.png)
+
+At last, finally you will be able get the predicted closing price for the stock.
+![predicted price](Screenshots/Screenshot-5.png)
+
+## Note:
+It is only a project which predicts the closing price based on their past closing history only.
+We will not say that our prediction is 100% accurate. Therefore, before investing in any stock, do your research thoroughly.
