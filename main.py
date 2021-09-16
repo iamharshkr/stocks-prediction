@@ -10,7 +10,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, LSTM
 
 #Load Data
-company = input('Enter Company Script Code : ') #Powergrid : 14977
+company = input('Enter Company Script Code : ')
 start = dt.datetime(2012,1,1)
 end = dt.datetime.now()
 data = web.DataReader(company, 'yahoo', start, end)
